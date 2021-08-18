@@ -1,4 +1,4 @@
-package com.example.sfgpetclinic.model;
+package model;
 
 import lombok.Data;
 
